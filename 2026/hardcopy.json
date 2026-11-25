@@ -9,7 +9,7 @@
   "pricing": "one-time",
   "price": { "regular": 14.99, "sale": 5.99, "currency": "USD" },
   "discount": 60,
-  "startDate": "2026-11-27",
+  "startDate": "2026-11-25",
   "endDate": "2026-12-01",
   "icon": "https://gethardcopy.app/apple-touch-icon.png"
 }
