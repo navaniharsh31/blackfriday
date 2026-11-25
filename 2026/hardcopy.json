@@ -1,0 +1,15 @@
+{
+  "name": "Hardcopy",
+  "url": "https://gethardcopy.app/buy?code=BF2026",
+  "description": "Back up iCloud Photos to your own drive, prove every copy with SHA-256, then free up iCloud and pay for a smaller plan",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "60% off: $5.99 instead of $14.99, one-time",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 5.99, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://gethardcopy.app/apple-touch-icon.png"
+}
